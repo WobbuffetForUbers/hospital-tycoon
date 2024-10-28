@@ -1,0 +1,13 @@
+.hospital-layout {
+      display: grid;
+      grid-template-columns: repeat(5, 1fr);
+      gap: 10px;
+      padding: 20px;
+    }
+
+    .room {
+      background-color: #e0e0e0;
+      border: 1px solid #ccc;
+      padding: 10px;
+      text-align: center;
+    }

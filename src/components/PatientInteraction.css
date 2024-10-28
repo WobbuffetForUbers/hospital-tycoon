@@ -1,0 +1,53 @@
+.patient-interaction {
+      border: 1px solid #ccc;
+      padding: 20px;
+      margin: 20px 0;
+      background-color: #f0f8ff; /* Light blue background */
+      border-radius: 8px;
+    }
+
+    .interaction-section {
+      margin-bottom: 15px;
+      background-color: #e6f7ff; /* Lighter blue for sections */
+      padding: 10px;
+      border-radius: 5px;
+    }
+
+    .interaction-section h4 {
+      margin-bottom: 5px;
+      color: #0056b3; /* Dark blue for headings */
+    }
+
+    .interaction-section p {
+      margin: 5px 0;
+    }
+
+    button {
+      margin-top: 10px;
+      padding: 5px 10px;
+      background-color: #007bff; /* Blue for primary actions */
+      color: white;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+    }
+
+    button:hover {
+      background-color: #0056b3; /* Darker blue on hover */
+    }
+
+    select {
+      margin-top: 10px;
+      padding: 5px;
+      border-radius: 4px;
+      border: 1px solid #ccc;
+    }
+
+    ul {
+      list-style-type: none;
+      padding: 0;
+    }
+
+    li {
+      margin-bottom: 5px;
+    }
